@@ -1,0 +1,12 @@
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  
+  background-image: url('https://cutewallpaper.org/25/animated-wallpaper-gif-creepy/gif-3b245-wallpaper-b8ec9-horror-42a58-nice.gif');
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+  
+  animation: gif-animation 10s linear infinite;
+}
